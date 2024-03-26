@@ -8,7 +8,7 @@ Welcome to the repository for the IBM Data Science Professional Certificate prog
 
 From understanding the fundamentals of data science to applying advanced machine learning techniques, each course in this program builds upon the previous one, providing you with a solid foundation and practical experience. With hands-on projects and real-world applications, you'll gain the confidence and expertise needed to tackle complex data challenges and excel in the field of data science and artificial intelligence.
 
-Happy "Machine Learning"! 🚀
+
 
 **Contents:**
 

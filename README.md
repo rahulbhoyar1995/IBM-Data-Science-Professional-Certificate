@@ -1,34 +1,38 @@
-# IBM-Data-Science-Professional-Certificate
+# IBM Data Science Professional Certification
 
-by **Stanford University** and **DeepLearning.ai**
+by **IBM**
 
-This repo contains the code and resources for the IBM Data Science Professional Certificate program, covering Python programming, data analysis, machine learning, and data visualization.
+### Author : Rahul Bhoyar
 
+Welcome to the repository for the IBM Data Science Professional Certificate program. Here, you'll find a comprehensive collection of code and resources designed to guide you through the exciting world of data science. Whether you're a beginner or an experienced programmer, this program offers a structured pathway to mastering essential skills in Python programming, data analysis, machine learning, and data visualization.
 
-
-Welcome to my repository dedicated to the **Coursera Machine Learning Specialization**!
-
-Here, you'll find my practice materials, including insightful Jupyter files, carefully crafted to enhance your understanding of Machine Learning concepts. Dive into hands-on exercises, grasp fundamental algorithms, and sharpen your skills with practical applications. Whether you're a beginner or an enthusiast, this repository serves as a valuable resource to accompany the Coursera Machine Learning Specialization. Explore, learn, and excel in the fascinating world of machine learning.
+From understanding the fundamentals of data science to applying advanced machine learning techniques, each course in this program builds upon the previous one, providing you with a solid foundation and practical experience. With hands-on projects and real-world applications, you'll gain the confidence and expertise needed to tackle complex data challenges and excel in the field of data science and artificial intelligence.
 
 Happy "Machine Learning"! 🚀
 
 **Contents:**
 
-Course Slides
-Jupyter files which includes assignments and codes
+Certificates of the courses
 
-**Courses in Specialisation :**
+**Courses in Certification Program :**
 
-1. Supervised Machine Learning - Regression and Classification
-2. Advanced Learning Algorithms
-3. Unsupervised Learning, Recommenders and Reinforcement Learning
+1. What is Data Science ?
+2. Tools for Data Science
+3. Data Science Methodology
+4. Python for Data Science, AI and Development
+5. Python Project for Data Science
+6. Databases and SQL for Data Science with Python
+7. Data Analysis with Python
+8. Data Visualization with Python
+9. Machine Learning with Python
+10. Applied Data Science Capstone
 
 **Certificate :**
 
-![Sample Image](specialisation_certificate/Rahul_Bhoyar_Certificate.jpg)
+![Sample Image](specialisation_certificate/IBM_Data_Science_Proffessional_Certificate.jpg)
 
-Specialisation completed on **15th February 2024**.
+Certification completed on **1st May 2022**.
 
 **Link for verification :**
 
-[https://www.coursera.org/account/accomplishments/specialization/UKA75UMVPJV4]()
+[https://www.coursera.org/account/accomplishments/professional-cert/S2DEWMXHDB3B]()
